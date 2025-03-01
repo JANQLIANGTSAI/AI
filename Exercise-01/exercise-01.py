@@ -19,4 +19,6 @@ response = openai.chat.completions.create(
 )
 
 # Print the response
-print(response.choices[0].message.content)
+prompt = "Is OpenAI better than DeepSeek?"
+print ("\n\n\n Prompt: " + prompt)
+print("\n Completions: " + response.choices[0].message.content)
