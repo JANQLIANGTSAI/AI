@@ -7,6 +7,14 @@ AI Playground - Max Tsai (mt8168@gmail.com)
 1. python -m venv .venv
 2. create requirements.txt (You may not need everything.  Just no time to clean up!)
 
-## OpenAI
-I am using OpenAI to get started and will implement examples with Google AI Studio (Gemini) or other LLMs as well.  Coming soon!
+## LLM
+### OpenAI
+https://platform.openai.com/docs/overview
 
+### Google AI Studio - Gemini API (Free)
+https://ai.google.dev/aistudio
+
+## Exercise 01: Getting Started (3/2/2025)
+This exercise is to set up the development environment with a static Prompt 
+
+===

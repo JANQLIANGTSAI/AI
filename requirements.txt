@@ -1,2 +1,6 @@
-openai
+#common
 python-dotenv
+#openai
+openai
+#google-geminiai
+google-generativeai
